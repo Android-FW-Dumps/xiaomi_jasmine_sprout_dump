@@ -1,0 +1,14 @@
+# jasmine-user 10 QKQ1.190910.002 V11.0.28.0.QDIMIXM release-keys
+- manufacturer: 
+- platform: sdm660
+- codename: jasmine_sprout
+- flavor: jasmine-user
+- release: 10
+- id: QKQ1.190910.002
+- incremental: V11.0.28.0.QDIMIXM
+- tags: release-keys
+- fingerprint: xiaomi/jasmine/jasmine_sprout:10/QKQ1.190910.002/V11.0.28.0.QDIMIXM:user/release-keys
+- is_ab: true
+- brand: xiaomi
+- branch: jasmine-user-10-QKQ1.190910.002-V11.0.28.0.QDIMIXM-release-keys
+- repo: xiaomi_jasmine_sprout_dump
